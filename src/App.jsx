@@ -16,8 +16,9 @@ function App(){
     <>
       <Navbar title="CSS and Separating JS and JSX" test="YES"/>
       <Container>
-        <HeroSection />
+         <HeroSection />
       </Container>
+       
     </>
     
   );

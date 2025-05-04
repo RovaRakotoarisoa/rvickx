@@ -1,7 +1,7 @@
-function Container(){
+function Container({children}){
 	return(
-		<div className="container">
-			
+		<div className="container h-screen flex items-center justify-center">
+			{children}
 		</div>
 	);
 }

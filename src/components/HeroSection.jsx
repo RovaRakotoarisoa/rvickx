@@ -1,10 +1,12 @@
+//leading-loose scale-y-125 scale-x-125
+
 function HeroSection(){
 	return(
 		<>
-			<div className="text-9xl font-extrabold">
-				DESIGNER <br />
+			<h1 className="text-7xl font-extrabold drop-shadow-2xl">
+				DESIGNER &amp;
 				WEB DEVELOPPER
-			</div>
+			</h1>
 		</>
 	);
 }
