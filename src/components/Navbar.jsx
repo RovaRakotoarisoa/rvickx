@@ -1,7 +1,7 @@
 function Navbar(props) {
 	return (
 		<nav className="bg-yellow-300/50 flex justify-center items-center w-full">
-			<div className="bg-white px-6 py-4 mt-20 rounded-[50px] flex gap-[24rem] justify-between items-center fixed shadow-lg backdrop:backdrop-blur-lg">
+			<div className="bg-white px-6 py-4 mt-20 rounded-[50px] flex gap-[24rem] justify-between items-center fixed shadow-lg backdrop-blur-lg">
 				<div className="navbar__logo text-2xl font-bold">
 					<a href="#">ROVA</a>
 				</div>
