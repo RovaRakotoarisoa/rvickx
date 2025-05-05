@@ -1,4 +1,11 @@
 @import "tailwindcss";
+
+/*@font-face{
+    
+    font-family: Poppins;
+    src: url("../../fonts/Poppins-Medium.ttf");
+   
+}*/
 /*#root {
   max-width: 1280px;
   margin: 0 auto;
@@ -10,3 +17,7 @@ body{
 /*  @apply bg-yellow-400;*/
 /*  @apply overflow-x-hidden;*/
 }
+
+/*.hero__text{
+  font-family: Poppins;
+}*/

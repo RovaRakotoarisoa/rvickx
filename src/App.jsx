@@ -1,8 +1,9 @@
 import { useState } from 'react'
 import './App.css'
 import Navbar from './components/Navbar'
-import HeroSection from './components/HeroSection'
 import Container from './components/Container'
+import HeroSection from './HeroSection'
+import About from './About'
 
 /**
 *
@@ -14,9 +15,10 @@ for devient htmlFor
 function App(){
   return(
     <>
-      <Navbar title="CSS and Separating JS and JSX" test="YES"/>
+      <Navbar />
       <Container>
          <HeroSection />
+         <About />
       </Container>
        
     </>

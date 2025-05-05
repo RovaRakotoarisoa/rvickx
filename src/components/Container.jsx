@@ -1,6 +1,6 @@
 function Container({children}){
 	return(
-		<div className="container h-screen flex items-center justify-center">
+		<div className="container h-screen flex flex-col items-center justify-center">
 			{children}
 		</div>
 	);
