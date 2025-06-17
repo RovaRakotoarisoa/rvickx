@@ -3,9 +3,8 @@
 function HeroSection(){
 	return(
 		<>
-			<h1 className="hero__text text-7xl font-extrabold drop-shadow-2xl">
-				DESIGNER &amp;
-				WEB DEVELOPPER
+			<h1 className="hero__text text-7xl text-center font-extrabold drop-shadow-2xl pb-8">
+				WEB DESIGNER & DEVELOPPER
 			</h1>
 		</>
 	);
