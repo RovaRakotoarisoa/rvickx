@@ -47,6 +47,9 @@ function About(){
 				</p>
 				<img src="" alt="" />
 			</div>
+			<div>
+				{/* <iframe src='https://my.spline.design/untitled-tGA1jbH5Km5gjJ6daSZvOvOm/' frameborder='0' width='100%' height='100%'></iframe> */}
+			</div>
 		</>
 	);
 }
